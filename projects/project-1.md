@@ -21,7 +21,7 @@ summary: iJam with channel randomization breaks away from typical wireless signa
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-In a typical communication system, a sender, Alice, and a receiver, Bob, would send a packet appended with pilot bits. Upon transmission, the packet undergoes a channel effect, changing upon reception from Bob. Since the pilot bits are known to all parties, Bob can estimate the channel effect and undo the effect on the entire packet, to retrieve the original packet.
+In a typical communication system, a sender, Alice, and a receiver, Bob, would send a data packet appended with pilot bits. Upon transmission, the packet undergoes a channel effect, changing the packet upon reception from Bob. Since the pilot bits are known to all parties, Bob can estimate the channel effect and undo the effect on the entire packet, to retrieve the original packet.
 
 However, an eavesdropper, Eve, can eavesdrop the signal and recover the packet by also calculating the channel effect. To prevent this, Bob can be fitted with a second antenna. Now, when Alice sends a signal, it would send it twice. Bob will choose one of these signals to jam with its second antenna. This way, Bob will know which signal is correct, whereas Eve would have to guess which of the two is correct. Although a novel approach, it can be defeated if Eve has a multi-antenna setup, in short, can determine which of the two signal was jammed, and pick out the correct signal.
 
