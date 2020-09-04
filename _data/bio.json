@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "",
+        "username": "Thomas Yang",
         "url": "http://linkedin.com/in/thomas-yang-92a86a191"
       },
       {
@@ -74,6 +74,10 @@
       ]
     }
   ],
+  "publications": [
+    {
+    }
+    ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
