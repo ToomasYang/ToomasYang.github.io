@@ -8,10 +8,9 @@ labels:
   - Software Engineering
   - Learning
 ---
+<img class="ui tiny left circular floated image" src="../images/javascript.jpg">
 
 When I started working Javascript, the first thought I had about it was "Hey, this is pretty neat." It simplified the coding progress by a significant amount, by giving the user a lot of short hand notations for commonly used functions. One of the neat things I found about Javascript is that all types of variables: double, int, char, string, etc., are condensed into a single variable container called **var** (or **let**).  These containers interact seamlessly when passed to other functions, so you almost never have to worry about passing the wrong type of variable. Although this is just a single thought, I'm sure as I dive deeper into Javascript, I'll find a lot of neat little features.
-
-<img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
 In usage for software engineering, I think Javascript is an excellent coding language to start prototyping with. With a lot of short hand notations coupled with the ease of connecting together functions, you could create a working script in minutes. However, there is a gripe I have about Javascript. Every time I define a variable, I always worry if my function would be able to handle all data types that could possibly be its input. By allowing variables to be stored into a single container, there could have implications in certain situations. By having no restrictions on what types of variables are defined by **var**, an unwanted type could accidentally slip into a function, which could lead to consequences if the function doesn't know how to correctly handle the type of data given to it. Because of this, along with the fact that Javascript is likely doing a lot of processing of these implicit data types in the background, I think it wouldn't be a great coding language for final deployment of software.   
 
