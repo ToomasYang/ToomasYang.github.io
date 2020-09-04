@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img src="../images/javascript.jpg">
+<img class="",src="../images/javascript.jpg">
 
 When I started working Javascript, the first thought I had about it was "Hey, this is pretty neat." It simplified the coding progress by a significant amount, by giving the user a lot of short hand notations for commonly used functions. One of the neat things I found about Javascript is that all types of variables: double, int, char, string, etc., are condensed into a single variable container called **var** (or **let**).  These containers interact seamlessly when passed to other functions, so you almost never have to worry about passing the wrong type of variable. Although this is just a single thought, I'm sure as I dive deeper into Javascript, I'll find a lot of neat little features.
 
@@ -16,7 +16,7 @@ In usage for software engineering, I think Javascript is an excellent coding lan
 
 <img src="../images/Javaa.png">
 
-When programming with Javascript, I feel I could effortlessly string together my thoughts on how I'm going to solve my problem into code. I no longer have to worry about which data types I should use, and making sure the parameters for my functions are defined correctly. All I need is a place holder for a variable and I'm good to move on to the next line, which is really neat. Doing WODs using Javascript was pretty helpful for me to get used to the language, and lets me realize which parts could be condensed using a convention from Javascript. I think one of the best things from the WODs are the professor's solution. It introduces new ways of thinking that I wouldn't think of. For example, while I was doing a WOD, I noticed that the professor's solution was pretty clever, where you could use the character you're counting, say 'a', as a index to an array, setting the value as its count. I would never of thought of doing such a thing, since with C, the main language that I use, would be extremely bad practice.
+When programming with Javascript, I feel I could effortlessly string together my thoughts on how I'm going to solve my problem into code. I no longer have to worry about which data types I should use, and making sure the parameters for my functions are defined correctly. All I need is a place holder for a variable and I'm good to move on to the next line, which is really neat. To get used to Javascript, I can take it on with athletic software engineering via WODs (Workout of the Day). Doing WODs using Javascript was pretty helpful for me to get used to the language, and lets me realize which parts could be condensed using a convention from Javascript. I think one of the best things from the WODs are the professor's solution. It introduces new ways of thinking that I wouldn't think of. For example, while I was doing a WOD, I noticed that the professor's solution was pretty clever, where you could use the character you're counting, say 'a', as a index to an array, setting the value as its count. I would never of thought of doing such a thing, since with C, the main language that I use, would be extremely bad practice.
 
 As I continue working with Javascript, I believe it will let me comine up with more creative solutions, as it gives me new ways of working with data that I never could with previously languages I've worked with. In time, I hope I'll be able to look past the first solution that pops into my head, but think how I would be able to manipulate the data with the new methods I've learned to come up with an clever solution.
 
