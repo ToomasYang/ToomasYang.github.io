@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript is cool, kinda
+title: Javascript is cool, kind of
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
