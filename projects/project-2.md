@@ -5,7 +5,7 @@ image: images/FaIR.png
 title: FaIR - Federated Incumbent Detection in CBRS Band
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-12-19
 labels:
   - Research Paper
 
