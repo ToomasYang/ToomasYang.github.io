@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rotator.jpg
+image: images/rfrotator.png
 title: Creating a Rotating RF Antenna
 permalink: projects/rfrotator
 # All dates must be YYYY-MM-DD format!
