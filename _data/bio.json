@@ -96,7 +96,12 @@
     }
   ],
   "publications": [
-    {
+    { "company": "Conference Proceedings",
+      "website": "https://ieeexplore.ieee.org/document/8935736",
+      "startDate": "2019-10-01",
+      "summary": "Troglia, Matthew, Jordan Melcher, Yao Zheng, Dylan Anthony, Alvin Yang and Thomas Yang (October 2019). \"FaIR: Federated Incumbent Detection in CBRS Band,\" In: 2019 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), Newark, NJ, USA, 2019, pp. 1-6
+",
+
     }
     ],
   "education": [
