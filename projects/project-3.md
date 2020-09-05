@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Creating a Rotating RF Antenna
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-15
@@ -11,7 +11,7 @@ labels:
   - LabView
   - HTTP
   - Python
-summary: The development of a rotating RF antenna utilizing a Raspberry Pi.
+summary: For physical layer security, a rotating antenna is an interesting topic to research. It opens up the possiblities of checking for possible paths in other angles, as well as possibly changing the channel effect as we rotate, which could make data transmissions more secure. This will go over the development of a rotating RF antenna utilizing a Raspberry Pi.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
