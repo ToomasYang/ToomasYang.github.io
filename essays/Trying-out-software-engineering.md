@@ -11,7 +11,7 @@ labels:
 
 <img class="banner" src="../images/software-engineering.jpg">
 
-As a computer engineering major, I never really had many opportunities to write my own code. I have typically focused on the technical aspects of computers. Now that I'm taking ICS314, a software engineering course, I finally get to take a step in and see how software engineering is like. Software engineering encompasses many aspects: from the languages you can use, or how efficiently you can solve a problem.
+As a computer engineering major, I never really had many opportunities to write my own code. I have typically focused on the technical aspects of computers. Now that I'm taking ICS314, a software engineering course, I finally get to take a step in and see what software engineering is like. Software engineering encompasses many aspects: from the languages you can use, or how efficiently you can solve a problem.
 
 Personally, I'm interested in HTML development, so I can personally develop my professional profile rather than using a template. From my current experience setting up the Techfolio template to my likings, there was so much that you can customize. However, I feel like I was lost when navigating these branches, so I try to tread in familiar spaces that the professor has guided me. Being able to diverge my profile from the template would be a great accomplishment, as I could confidently say that I'm gaining more experience with developing in HTML.
 
