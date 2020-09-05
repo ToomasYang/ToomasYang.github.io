@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://toomasyang.github.io/images/avatar.png",
     "email": "thomasy4@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-308-2665",
     "website": "https://toomasyang.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Fall 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -61,7 +61,18 @@
         "Assembly",
         "Verilog",
         "SystemVerilog",
-        "LabView"
+        "LabView",
+        "PSpice"
+      ]
+    },
+        {
+      "name": "Technicals",
+      "level": "",
+      "keywords": [
+        "Oscilloscopes",
+        "Multimeters",
+        "Function Generators",
+        "Variable Power Supply"
       ]
     },
     {
@@ -104,8 +115,6 @@
       ]
     }
    ],
-  "awards": [
-  ],
   "references": [
     {
       "name": "Available upon request",
