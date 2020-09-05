@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/FaIR.png
+image: images/FaIRIcon.png
 title: FaIR - Federated Incumbent Detection in CBRS Band
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
