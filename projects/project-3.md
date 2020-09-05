@@ -24,5 +24,5 @@ Once we are able to correctly read the angular data, we can begin to rotate our 
 
 With all functionalities done, we can create a web interface for it so we can control our new rotator from another computer. We utilized Flask to create a simple HTTP server, and hooked up all functionalities of our rotator to the webpage, of which can report the readings of our rotator live.
 
-Source code can be found as "rf_rotator" in my [Github.] (https://github.com/ToomasYang/ToomasYang.github.io/tree/master/examples)
+Source code (only the rotator) can be found as "rf_rotator" in my [Github.] (https://github.com/ToomasYang/ToomasYang.github.io/tree/master/examples)
 
