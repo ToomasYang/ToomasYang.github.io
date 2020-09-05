@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/iJam.jpg
+image: images/iJam.png
 title: iJam with Channel Randomization
 permalink: projects/iJam
 # All dates must be YYYY-MM-DD format!
