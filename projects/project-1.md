@@ -17,7 +17,8 @@ summary: iJam with channel randomization breaks away from typical wireless signa
 <div class="banner">
   <img class="ui image" src="../images/iJamBanner.png">
 </div>
-<iframe width="1730" height="638" src="https://www.youtube.com/embed/lMRiCmiHmb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![iJam with Channel Randomization](http://img.youtube.com/vi/lMRiCmiHmb0/0.jpg)](http://www.youtube.com/watch?v=lMRiCmiHmb0 "iJam with Channel Randomization")
+
 
 In a typical communication system, a sender, Alice, and a receiver, Bob, would send a data packet appended with pilot bits. Upon transmission, the packet undergoes a channel effect, changing the packet upon reception from Bob. Since the pilot bits are known to all parties, Bob can estimate the channel effect and undo the effect on the entire packet, to retrieve the original packet.
 
