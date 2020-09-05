@@ -2,7 +2,9 @@
 margin: 0;
 padding: 0;
 }
-
+.box {
+background: linear-gradient(180deg, #68a4f5 0%, #5993e2 0%, #5993e2 10%);
+}
 h2 {
 position: absolute;
 top: 50%;
