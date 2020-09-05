@@ -75,7 +75,7 @@ transform: scale(1.6) translateY(-250px) rotate(360deg);
 }
 // Customize the background color
 body {
-  // background-color: linear-gradient(#6a9de4,#5993e2);
+  background-color: linear-gradient(#6a9de4,#5993e2);
 }
 
 // Customize the menubar color
