@@ -22,7 +22,7 @@ We first connected the rotary encoder to the stepper motor, such that as the mot
 
 Once we are able to correctly read the angular data, we can begin to rotate our motor. Using the Motor HAT, we connected it to the Raspberry Pi and the stepper motor. We tried serveral modes to rotate the stepper motor as provided by the Motor HAT's datasheet, and settled with microstepping for most granuality. Although the Motor HAT it allows us to rotate the motor, we cannot rotate it with precision. We solved this problem by utilizing the readings from the rotary encoder to determine when to stop.
 
-With all functionalities done, we can create a web interface for it so we can control our new rotator from another computer. We utilized Flask to create a simple HTTP server, and hooked up all functionalities of our rotator to the webpage, of which can report the readings of our rotator live.
+With all functionalities done, we can create a web interface for it so we can control our new rotator from another computer. We utilized Flask to create a simple HTTP server, and hooked up all functionalities of our rotator to the webpage, of which can report the readings of our rotator live. With this, we can then use this to communicate with LabView, a software which helps connect all pieces of lab equipment together. As we can now communicate with the rotator through HTTP protocol, we can send requests through LabView with HTTP.
 
 Source code (only the rotator) can be found as "rf_rotator" in my [Github.] (https://github.com/ToomasYang/ToomasYang.github.io/tree/master/examples)
 
