@@ -17,7 +17,7 @@ summary: iJam with channel randomization breaks away from typical wireless signa
 <div class="banner">
   <img class="ui image" src="../images/iJamBanner.png">
 </div>
-[![iJam with Channel Randomization](http://img.youtube.com/vi/lMRiCmiHmb0/0.jpg)](http://www.youtube.com/watch?v=lMRiCmiHmb0 "iJam with Channel Randomization")
+
 
 In a typical communication system, a sender, Alice, and a receiver, Bob, would send a data packet appended with pilot bits. Upon transmission, the packet undergoes a channel effect, changing the packet upon reception from Bob. Since the pilot bits are known to all parties, Bob can estimate the channel effect and undo the effect on the entire packet, to retrieve the original packet.
 
@@ -27,7 +27,7 @@ This is where we propose iJam with Channel Randomization, as Alice and Bob posit
 
 We utilized LabView to perform these experiments, and fitted a Raspberry Pi with a rotating motor and antenna to collect experimental data.
 
-You can read the full paper [here](https://arxiv.org/pdf/2007.03201v1.pdf).
+You can read the full paper [here](https://arxiv.org/pdf/2007.03201v1.pdf), and watch our demonstration [here.](http://www.youtube.com/watch?v=lMRiCmiHmb0)
 
 
 
