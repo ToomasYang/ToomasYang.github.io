@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/iJam.jpg
 title: iJam with Channel Randomization
-permalink: projects/micromouse
+permalink: projects/iJam
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-08
 labels:
@@ -14,11 +14,8 @@ labels:
 summary: iJam with channel randomization breaks away from typical wireless signal protocols of sending pilot bits to estimate the channel effect, and instead predicts and precode this channel effect on the outgoing signal so only the sender and reciever knows how to undo this channel effect and recover the correct message.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+<div class="banner">
+  <img class="ui image" src="../images/iJamBanner.png">
 </div>
 
 In a typical communication system, a sender, Alice, and a receiver, Bob, would send a data packet appended with pilot bits. Upon transmission, the packet undergoes a channel effect, changing the packet upon reception from Bob. Since the pilot bits are known to all parties, Bob can estimate the channel effect and undo the effect on the entire packet, to retrieve the original packet.
