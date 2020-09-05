@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/rotator.jpg
 title: Creating a Rotating RF Antenna
-permalink: projects/cotton
+permalink: projects/rfrotator
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-15
 labels:
