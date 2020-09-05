@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/software-engineering.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 As a computer engineering major, I never really had many opportunities to write my own code. I have typically focused on the technical aspects of computers. Now that I'm taking ICS314, a software engineering course, I finally get to take a step in and see how software engineering is like. Software engineering encompasses many aspects: from the languages you can use, or how efficiently you can solve a problem.
 
