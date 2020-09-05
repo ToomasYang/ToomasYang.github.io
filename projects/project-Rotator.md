@@ -13,8 +13,7 @@ labels:
   - Python
 summary: For physical layer security, a rotating antenna is an interesting topic to research. It opens up the possiblities of checking for possible paths in other angles, as well as possibly changing the channel effect as we rotate, which could make data transmissions more secure. This will go over the development of a rotating RF antenna utilizing a Raspberry Pi.
 ---
-
-<img class="ui medium image" src="../images/rotator.jpg">
+<img class="ui image" src="../images/rotator.jpg">
 
 To conduct research projects at the Cybersecurity Research Lab, we needed a way to rotate a directional antenna. The materials we used is a Raspberry Pi 3 with a Adafruit Stepper Motor HAT, a CUI AMT22 rotary encoder, a QSH4218 stepper motor, and a 3-D printer to print out the frame.
 
