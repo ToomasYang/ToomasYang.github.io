@@ -34,17 +34,27 @@
   },
   "interests": [
     {
-      "name": "physical layer security",
+      "name": "Physical Layer Security",
       "keywords": [
       ]
     },
     {
-      "name": "mobile payment & fraud",
+      "name": "Mobile Payment & Fraud",
       "keywords": [
       ]
     },
     {
-      "name": "computer architecture",
+      "name": "Computer Architecture",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Circuit Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "FPGA Development",
       "keywords": [
       ]
     }
