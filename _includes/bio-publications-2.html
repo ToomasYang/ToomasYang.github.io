@@ -95,7 +95,7 @@
   {% for entry in site.data.bio.publications %}
     {% if entry.type == "demonstration" %}
     <p class="ui no-bottom">
-      {% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %} ({{ entry.date }}). {{ entry.name }}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
+      {% if entry.author and entry.author != "" %}{{ entry.author }}{% endif %} ({{ entry.date }}). {{ entry.name }}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
       {% if entry.website %}
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
       {% endif %}
