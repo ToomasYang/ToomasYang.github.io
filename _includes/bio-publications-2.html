@@ -3,6 +3,7 @@
 {% assign hasJournal = false %}
 {% assign hasConference = false %}
 {% assign hasWorkshop = false %}
+{% assign hasDemonstration = false %}
 {% assign hasTechReport = false %}
 {% assign hasThesis = false %}
 {% for entry in site.data.bio.publications %}
@@ -10,6 +11,8 @@
      {% assign hasJournal = true %}
   {% elsif entry.type == "conference" %}
      {% assign hasConference = true %}
+  {% elsif entry.type == "demonstration" %}
+     {% assign hasDemonstration = true %}
   {% elsif entry.type == "workshop" %}
      {% assign hasWorkshop = true %}
   {% elsif entry.type == "techreport" %}
@@ -82,6 +85,26 @@
 </div>
 {% endif %}
 
+{% if hasDemonstration %}
+<div class="sixteen wide column no-bottom">
+  <h3 class="ui left aligned header no-bottom">Demonstrations</h3>
+  <hr style="margin: 0px;">
+</div>
+
+<div class="sixteen wide column no-bottom">
+  {% for entry in site.data.bio.publications %}
+    {% if entry.type == "demonstration" %}
+    <p class="ui no-bottom">
+      {% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %} ({{ entry.date }}). {{ entry.name }}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
+      {% if entry.website %}
+        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+      {% endif %}
+    </p>
+    <p class="ui no-bottom">{{ entry.summary }}</p>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
 {% if hasWorkshop %}
 <div class="sixteen wide column no-bottom">
   <h3 class="ui left aligned header no-bottom">Workshop Proceedings</h3>
