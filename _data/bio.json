@@ -117,7 +117,7 @@
       "location": "Newark, NJ, USA, 2019"
     },
     {
-      "type": "demonstration"
+      "type": "demonstration",
       "author":"Melcher, Jordan, Yao Zheng, Dylan Anthony, Matthew Troglia, Yanjun Pan, Ming Li, Samson Aggeloupolos, Alvin Yang and Thomas Yang",
       "date":"July 2020",
       "name":"\"Demo: iJam with Channel Randomization\"",
