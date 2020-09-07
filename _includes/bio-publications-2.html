@@ -74,7 +74,7 @@
   {% for entry in site.data.bio.publications %}
     {% if entry.type == "conference" %}
       <p class="ui no-bottom">
-        <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
+        {% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, {{ entry.name }}, In\: <em>{{ entry.publisher }}</em>, {{ entry.location }}, {{entry.page}}
       {% if entry.website %}
          <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
       {% endif %}
