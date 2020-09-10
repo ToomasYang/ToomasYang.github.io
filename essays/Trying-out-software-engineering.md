@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="center" src="../images/software-engineering.jpg">
+<img width="60%" class="center" src="../images/software-engineering.jpg">
 
 ## Diving In
 As a computer engineering major, I never really had many opportunities to write my own code. I have typically focused on the technical aspects of computers. Now that I'm taking ICS314, a software engineering course, I finally get to take a step in and see what software engineering is like. Software engineering encompasses many aspects: from the languages you can use, or how efficiently you can solve a problem.
