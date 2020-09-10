@@ -118,6 +118,7 @@
       "date":"July 2020",
       "name":"\"Demo: iJam with Channel Randomization\"",
       "publisher":"WISEC 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+      "
     }
     ],
   "work": [
@@ -129,7 +130,9 @@
       "endDate": "Present",
       "summary": "Develop and test lab equipment, interconnecting with LabView",
       "highlights": [
-        "FaIR: Federated Incumbent Detection in CBRS Band"
+        "Minimize power consumption of proposed communication overhaul in a remote sensing data collection system",
+        "Use MatLab to simulate signal strength at given locations to find minimum power needed for a link",
+        "Development of an OFDM system in LabView for mmWave communications"
       ]
     }
    ],
