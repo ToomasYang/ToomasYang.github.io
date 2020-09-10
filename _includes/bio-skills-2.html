@@ -4,7 +4,7 @@
 </div>
 
 {% for entry in site.data.bio.skills %}
-  <div class="twelve wide column no-bottom">
+  <div class="sixteen wide column no-bottom">
     <p class="ui no-bottom"><b>{{ entry.name }}:</b>
           {% for keyword in entry.keywords %}
             {{ keyword }}{% if forloop.last != true %}, {% endif %}
