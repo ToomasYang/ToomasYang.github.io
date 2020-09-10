@@ -75,8 +75,7 @@
     {% if entry.type == "conference" %}
       <p class="ui no-bottom">
         {% if entry.author and entry.author != "" %}{{ entry.author }}{% endif %} ({{ entry.date }}). {{ entry.name }}, In: <em>{{ entry.publisher }}</em>, {{ entry.location }}, {{entry.page}}
-      {% if entry.website %}
-         ,<a href="{{ entry.website }}">{{ entry.website | remove: "http://doi.org/" | remove: "https://doi.org/" }}</a>
+      {% if entry.website %}, doi: <a href="{{ entry.website }}">{{ entry.website | remove: "http://doi.org/" | remove: "https://doi.org/" }}</a>
       {% endif %}.
       </p>
       <p class="ui no-bottom">{{ entry.summary }}</p>
