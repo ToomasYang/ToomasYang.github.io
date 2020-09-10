@@ -9,6 +9,7 @@ labels:
   - Learning
 ---
 <img class="center image" src="../images/javascript.jpg" style="width:700px;">
+
 ## First Impressions
 When I started working with Javascript, the first thought I had about it was "Hey, this is pretty neat." It simplified the coding progress by a significant amount, by giving the user a lot of short hand notations for commonly used functions. One of the neat things I found about Javascript is that all types of variables: double, int, char, string, etc., are condensed into a single variable container called **var** (or **let**).  These containers interact seamlessly when passed to other functions, so you almost never have to worry about whether your function is defined to correctly take in a input. Although this is just a single thought, I'm sure as I dive deeper into Javascript, I'll find a lot of neat little features.
 
