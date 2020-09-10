@@ -136,6 +136,17 @@
         "Use MatLab to simulate signal strength at given locations to find minimum power needed for a link",
         "Development of an OFDM system in LabView for mmWave communications"
       ]
+    },
+    {
+      "company": "Honolulu Community College",
+      "position": "Teacher Assistant",
+      "startDate": "2018-06-01",
+      "endDate": "2018-07-20",
+      "summary": "Assist the Summer Engineering Program by preparing electornic materials and quality control of student's work",
+      "highlights": [
+        "Troubleshoot circuits for students and explained errors and possible solutions",
+        "Teach students how to properly solder, strip, and connect components and wires"
+      ]
     }
    ],
   "references": [
