@@ -76,7 +76,7 @@
       <p class="ui no-bottom">
         {% if entry.author and entry.author != "" %}{{ entry.author }}{% endif %} ({{ entry.date }}). {{ entry.name }}, In: <em>{{ entry.publisher }}</em>, {{ entry.location }}, {{entry.page}}
       {% if entry.website %}
-         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://doi.org/" | remove: "https://doi.org/" }}</a></p>
+         <a href="{{ entry.website }}">{{ entry.website | remove: "http://doi.org/" | remove: "https://doi.org/" }}</a>
       {% endif %}
       </p>
       <p class="ui no-bottom">{{ entry.summary }}</p>
@@ -97,7 +97,7 @@
     <p class="ui no-bottom">
       {% if entry.author and entry.author != "" %}{{ entry.author }}{% endif %} ({{ entry.date }}). {{ entry.name }}, In: <em>{{ entry.publisher }}</em>. {{ entry.releaseDate }}
       {% if entry.website %}
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://doi.org/" | remove: "https://doi.org/" }}</a></p>
+        <a href="{{ entry.website }}">{{ entry.website | remove: "http://doi.org/" | remove: "https://doi.org/" }}</a>
       {% endif %}
     </p>
     <p class="ui no-bottom">{{ entry.summary }}</p>
