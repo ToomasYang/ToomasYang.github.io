@@ -111,7 +111,7 @@
       "publisher":"2019 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)",
       "location": "Newark, NJ, USA, 2019",
       "page": "pp. 1-6",
-      "doi": "https://doi.org/10.1109/DySPAN.2019.8935736"
+      "website": "https://doi.org/10.1109/DySPAN.2019.8935736"
     },
     {
       "type": "demonstration",
@@ -119,7 +119,7 @@
       "date":"July 2020",
       "name":"\"Demo: iJam with Channel Randomization\"",
       "publisher":"WISEC 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks",
-      "doi": "https://doi.org/10.1145/3395351.3401705"
+      "website": "https://doi.org/10.1145/3395351.3401705"
       
     }
     ],
