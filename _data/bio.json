@@ -123,12 +123,12 @@
     ],
   "work": [
     {
-      "company": "UH Manoa",
+      "company": "Cybersecurity Laboratory at UH Manoa",
       "position": "Research Assistant",
       "website": "http://www2.hawaii.edu/~yaozheng/",
       "startDate": "2019-01-10",
       "endDate": "Present",
-      "summary": "Develop and test lab equipment, interconnecting with LabView",
+      "summary": "Develop and test lab equipment with LabView, to conduct physical layer security research experiments",
       "highlights": [
         "Minimize power consumption of proposed communication overhaul in a remote sensing data collection system",
         "Use MatLab to simulate signal strength at given locations to find minimum power needed for a link",
