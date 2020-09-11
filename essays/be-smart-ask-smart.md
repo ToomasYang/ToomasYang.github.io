@@ -27,4 +27,5 @@ If you're planning to ask a question, remember to be smart, not stupid about it.
 - Include your code in your question
 - State what you think should happen and the reasons why, and why you think its not happening
 - Define possible solutions and why its not the case in your question
+
 Asking smart questions will help others provide a helpful answer, so don't forget it!
