@@ -8,6 +8,7 @@ Hi there! This repository hosts my technical portfolio, built using [TechFolio](
 \_data/: Contains bio.json - Information for resume & landing page
 \_includes/: Contains different theme's .html files for the various pages, including separate HTML pages for the various sections in the resume
 - Modify theme-bio-builtin-2.html to add sections to the resume as needed
+
 \_layouts/: Contains .html files which defines how each page is structured
 bio/: Top level bio (resume) .html file
 css/: Contains various .css and .scss files, currently utilizing style-home.css for front page animation
