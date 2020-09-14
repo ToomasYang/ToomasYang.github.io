@@ -5,28 +5,28 @@ Hi there! This repository hosts my technical portfolio, built using [TechFolio](
 **-Thomas**
 
 # Layout
-_data/: Contains bio.json - Information for resume & landing page 
+**_data/:** Contains bio.json - Information for resume & landing page 
 
-_includes/: Contains different theme's .html files for the various pages, including separate HTML pages for the various sections in the resume
+**_includes/:** Contains different theme's .html files for the various pages, including separate HTML pages for the various sections in the resume
 - Modify theme-bio-builtin-2.html to add sections to the resume as needed
 
-_layouts/: Contains .html files which defines how each page is structured
+**_layouts/:** Contains .html files which defines how each page is structured
 
-bio/: Top level bio (resume) .html file
+**bio/:** Top level bio (resume) .html file
 
-css/: Contains various .css and .scss files, currently utilizing style-home.css for front page animation
+**css/:** Contains various .css and .scss files, currently utilizing style-home.css for front page animation
 
-essays/: Contains markdown files for essays written for ICS-314 (Software Engineering)
+**essays/:** Contains markdown files for essays written for ICS-314 (Software Engineering)
 
-images/: Contains all the images used throughout the site
+**images/:** Contains all the images used throughout the site
 
-js/: Has the jekyll's module which allows for the deployment of my github.io site
+**js/:** Has the jekyll's module which allows for the deployment of my github.io site
 
-projects/: Contains markdown files for the projects I've done
+**projects/:** Contains markdown files for the projects I've done
 
-favicon.ico: Icon for the website
+**favicon.ico:** Icon for the website
 
-index.html: Landing page
+**index.html:** Landing page
 
 # To-do List
 - Change the layout of the website
