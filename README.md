@@ -10,14 +10,15 @@ _data/: Contains bio.json - Information for resume & landing page
 - Modify theme-bio-builtin-2.html to add sections to the resume as needed
 
 _layouts/: Contains .html files which defines how each page is structured
-  bio/: Top level bio (resume) .html file
-  css/: Contains various .css and .scss files, currently utilizing style-home.css for front page animation
-  essays/: Contains markdown files for essays written for ICS-314 (Software Engineering)
-  images/: Contains all the images used throughout the site
-  js/: Has the jekyll's module which allows for the deployment of my github.io site
-  projects/: Contains markdown files for the projects I've done
-  favicon.ico: Icon for the website
-  index.html: Landing page
+
+bio/: Top level bio (resume) .html file
+css/: Contains various .css and .scss files, currently utilizing style-home.css for front page animation
+essays/: Contains markdown files for essays written for ICS-314 (Software Engineering)
+images/: Contains all the images used throughout the site
+js/: Has the jekyll's module which allows for the deployment of my github.io site
+projects/: Contains markdown files for the projects I've done
+favicon.ico: Icon for the website
+index.html: Landing page
 
 # To-do List
 - Change the layout of the website
