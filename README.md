@@ -32,3 +32,4 @@ Hi there! This repository hosts my technical portfolio, built using [TechFolio](
 - Change the layout of the website
   - Instead of having a grey background, add blurred flora sidebars with a canvas for content in the middle
   - Add a slight custom animation to landing page
+- Add more project pages to display work with Verilog/SystemVerilog and microcontrollers
