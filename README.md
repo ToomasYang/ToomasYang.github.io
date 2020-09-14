@@ -4,5 +4,8 @@ Hi there! This repository hosts my technical portfolio, built using [TechFolio](
 
 **-Thomas**
 
+# Layout
+\_data: Contains bio.json - Information for resume & landing page
 
+# To-do List
 
