@@ -15,6 +15,7 @@ In this past week, I've been introduced to a particular coding standard. I've tr
 <div style="text-align: center;">
 <img width="70%" class="image" align="middle" src="../images/array_spacing.png" alt="My no-spaced array vs ESLint standard spaced array">
 </div>
+
 ## Should we have Strict Coding Standards? 
 Its not like coding standards is a bad thing, nor is it too bad to keep fixing these errors. When I first started writing programs, I remember all the mistakes I would make, not properly indenting, not using short-hand methods, and just a general mess of a code. When my lab TAs pointed out that there are ways to properly format the code to make it much easier to read, I was constantly finding myself backtracking to fix these formatting mistakes. But, overtime, it eventually grew on me and I've gotten use to properly conforming to the standards that my lab TAs have set out for me, of which I am thankful for them as it makes reading and debugging code a whole world easier. I feel that with strict coding standards, although it will take time to get use to, will allow the user to learn how to properly code without raising a flag.
 
