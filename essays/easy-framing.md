@@ -14,7 +14,7 @@ labels:
 When creating a webpage, everything can be done in pure HTML, or the contents of the webpage, and CSS, or the style of the webpage. Although you can make anything you want, it is much easier said than done. You have all of your basic building blocks to build your website: divisions, margins, formatting, sizing, and positions to name a few. But, having to put it all together takes a consider amount of time, and making sure everything comes together neatly is very difficult. That is where UI Frameworks comes in, adding functionalities on top of these building blocks to help put together a nice website.
 
 <div style="text-align: center;">
-<img width="70%" class="image" align="middle" src="../images/array_spacing.png" alt="My no-spaced array vs ESLint standard spaced array">
+<img width="70%" class="image" align="middle" src="../images/cerulean.png">
 </div>
 
 ## But Should I Learn a UI Framework?
