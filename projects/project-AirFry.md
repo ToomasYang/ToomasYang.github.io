@@ -7,10 +7,9 @@ permalink: projects/rfrotator
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-15
 labels:
-  - Raspberry Pi
-  - LabView
-  - HTTP
-  - Python
+  - Website Development
+  - Group Project
+  - React
 summary: A website for UH students to view simple recipes using the air fryer. It shows the nutritional facts for ingredients, as well as vendors in the UH area selling those ingredients.
 ---
 
