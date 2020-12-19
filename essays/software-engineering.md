@@ -21,6 +21,7 @@ I think one of the biggest pillars in software engineering is functional program
 
 ## Agile Project Management
 As I worked on a big project with group mates, and I expect to do so in future endeavors, I find that agile project management to be very helpful on keeping everyone on track. Rather than throwing darts blindly at different targets, it helps get everyone on the same page, so we can hit targets one by one on each iteration, allowing the group to progress faster as a whole. 
+
 Thinking back to my group project, I believe we should have followed this principle more, as I found that we were looking at different targets, leading to conflicting problems. This also made me realize that you need to also be aware of the future of the project, as sudden changes to a system that was already working, even if its well intended, will tend towards failure unless given enough time. We should've asked ourselves, "Is this doable in the given time we have left?", and "Is it even worth doing it, when the impact is minimal?" Had we followed the agile project management principles and asked ourselves this, I believe it would help get everyone on the same page and allow us to progress pass the stopping point, rather than having a few be too ambitious, leading to problems in the future.
 
 
