@@ -24,6 +24,6 @@ When programming with Javascript, I feel I could effortlessly string together my
 </div>
 
 ## Takeaways
-As I continue working with Javascript, I believe it will let me comine up with more creative solutions, as it gives me new ways of working with data that I never could with previously languages I've worked with. In time, I hope I'll be able to look past the first solution that pops into my head, but think how I would be able to manipulate the data with the new methods I've learned to come up with an clever solution.
+As I continue working with Javascript, I believe it will let me come up with more creative solutions, as it gives me new ways of working with data that I never could with previously languages I've worked with. In time, I hope I'll be able to look past the first solution that pops into my head, but think how I would be able to manipulate the data with the new methods I've learned to come up with an clever solution.
 
 
