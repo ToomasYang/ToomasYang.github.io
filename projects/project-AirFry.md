@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/rfrotator.png
-title: Creating a Rotating RF Antenna
+image: images/airfry.jpg
+title: Air Fry Till I Die Website
 permalink: projects/rfrotator
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-15
@@ -11,17 +11,26 @@ labels:
   - LabView
   - HTTP
   - Python
-summary: For physical layer security, a rotating antenna is an interesting topic to research. It opens up the possiblities of checking for possible paths in other angles, as well as possibly changing the channel effect as we rotate, which could make data transmissions more secure. This will go over the development of a rotating RF antenna utilizing a Raspberry Pi.
+summary: A website for UH students to view simple recipes using the air fryer. It shows the nutritional facts for ingredients, as well as vendors in the UH area selling those ingredients.
 ---
-<img class="ui image" src="../images/rotator.jpg">
 
-To conduct research projects at the Cybersecurity Research Lab, we needed a way to rotate a directional antenna. The materials we used is a Raspberry Pi 3 with a Adafruit Stepper Motor HAT, a CUI AMT22 rotary encoder, a QSH4218 stepper motor, and a 3-D printer to print out the frame.
+## Air Fry Till I Die
+The Air Fry Till I Die (AFTID) website hosts an array of simple (6 ingredients or less) recipes that uses an air fryer for UH students to view. The idea for using an air fryer is that a typical UH student dorming in does not have access to a full-sized kitchen, but they still want to be able to create a simple meal that is healthy and tasty. This is why we chose an air fryer, as it is small and portable, and can be used for a variety of recipes.
 
-We first connected the rotary encoder to the stepper motor, such that as the motor rotates, we are able to tell how much it rotated by. We connected the rotary encoder to the Raspberry Pi with its SPI interface. Once connected, we followed the datasheet supplied by the rotary encoder to learn how to request data. We used Python, and used the provided SPI interface to send a request command to the rotary encoder for its angular reading. We then created a functions to handle the requests of data to the encoder, and to convert the data into degrees.
+The AFTID website offers:
+* A recipe page where users can view all the recipes availble on our website.
+* A vendors page where users can view shops near UH Manoa and what ingredients they have available
+* When logged in, users can view all of the ingredients and their nutritional facts that are used in the recipes
+* Users also have access to their own inventory, where they can add and edit ingredients so they can keep track of what they have
 
-Once we are able to correctly read the angular data, we can begin to rotate our motor. Using the Motor HAT, we connected it to the Raspberry Pi and the stepper motor. We tried serveral modes to rotate the stepper motor as provided by the Motor HAT's datasheet, and settled with microstepping for most granuality. Although the Motor HAT allows us to define the amount of "steps" to rotate the motor, these steps aren't reliably precise. We solved this problem by utilizing the readings from the rotary encoder to determine when to stop rotating, and to correct the positioning if necessary.
+## My Contributions
+As this was a group project, the work was split between three people. My contributions to this website are:
+* The nutritions page, where each ingredient has a popup to easily view their nutritional facts.
+* The list ingredients page, where users can look at all of the ingredients used in the recipes, and their nutritional facts 
+* The inventory page, where the user can easily add ingredients available, and modify or remove ingredients in their inventory
 
-With all functionalities done, we can create a web interface for our rotator so we can control our new rotator from another computer. We utilized Flask to create a simple HTTP server, and hooked up all functionalities of our rotator to the webpage, so we can report the readings of our rotator live. With this, we can use it to communicate with LabView, a software which helps connect and run different pieces of lab equipment together. Since we can now communicate with the rotator through HTTP protocol, we can control our rotator through LabView's HTTP functions.
+## What I've learned
+From working on this group project, I learned many lessons from what went wrong. One of the notable lessons is "if its not broken, don't fix it." Although there are caveats to this claim, such as if the fix would make it better, I believe that this is something important to remember, given our time frame. We originally had the whole ingredients and recipe layout operational, but realized that it wasn't an optimal layout. We wanted to change it so that it was optimal, but didn't take into account the time frame we had left, or possible errors that we would run into along the way. It made me realize how important the agile project management process is, as it allows to keep these ambitions in check and see what is realistic and what is not, so we can take reasonable steps towards fixing this issue, or easily back track once we realize it is not feasible to fix such a issue.
 
-Source code can be found as "RF_Rotator" in my [Github.](https://github.com/ToomasYang/RF_Rotator)
+Source code can be found as "Air Fry Till I Die" in the [organizaiton's Github.](https://github.com/Air-Fry-Till-I-Die/)
 
