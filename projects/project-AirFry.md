@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/airfry.jpg
+image: images/aftid.jpg
 title: Air Fry Till I Die Website
 permalink: projects/airfry
 # All dates must be YYYY-MM-DD format!
