@@ -25,13 +25,17 @@ The AFTID website offers:
 * Users also have access to their own inventory, where they can add and edit ingredients so they can keep track of what they have
 <div style="text-align: center;">
 <img width="70%" class="image" align="middle" src="../images/aftid-nutritional.jpg" alt="Nutritional modal of air fry till I die website">
+  Nutritional Modal
 </div>
 <div style="text-align: center;">
 <img width="70%" class="image" align="middle" src="../images/aftid-list-ingredients.jpg" alt="List ingredients page of air fry till I die website">
+  List Ingredients
 </div>
 <div style="text-align: center;">
 <img width="70%" class="image" align="middle" src="../images/aftid-inventory.jpg" alt="Inventory page of air fry till I die website">
+  Inventory
 </div>
+
 ## My Contributions
 As this was a group project, the work was split between three people. My contributions to this website are:
 * The nutritions page, where each ingredient has a popup to easily view their nutritional facts.
