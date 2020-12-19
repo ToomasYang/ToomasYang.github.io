@@ -5,7 +5,7 @@ image: images/airfry.jpg
 title: Air Fry Till I Die Website
 permalink: projects/airfry
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-15
+date: 2020-12-16
 labels:
   - Website Development
   - Group Project
