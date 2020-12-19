@@ -33,15 +33,15 @@ As this was a group project, the work was split between three people. My contrib
 
 <div style="text-align: center;">Nutritional Facts</div>
 <div style="text-align: center;">
-<img width="70%" class="image" align="middle" src="../images/aftid-nutritional.jpg" alt="Nutritional modal of air fry till I die website">
+<img width="80%" class="image" align="middle" src="../images/aftid-nutritional.jpg" alt="Nutritional modal of air fry till I die website">
 </div>
 <div style="text-align: center;">List Ingredients</div>
 <div style="text-align: center;">
-<img width="70%" class="image" align="middle" src="../images/aftid-list-ingredients.jpg" alt="List ingredients page of air fry till I die website">
+<img width="80%" class="image" align="middle" src="../images/aftid-list-ingredients.jpg" alt="List ingredients page of air fry till I die website">
 </div>
 <div style="text-align: center;">Inventory</div>
 <div style="text-align: center;">
-<img width="70%" class="image" align="middle" src="../images/aftid-inventory.jpg" alt="Inventory page of air fry till I die website">
+<img width="80%" class="image" align="middle" src="../images/aftid-inventory.jpg" alt="Inventory page of air fry till I die website">
 </div>
 
 ## What I've learned
