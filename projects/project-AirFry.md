@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/airfry.jpg
 title: Air Fry Till I Die Website
-permalink: projects/rfrotator
+permalink: projects/airfry
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-15
 labels:
@@ -12,7 +12,9 @@ labels:
   - React
 summary: A website for UH students to view simple recipes using the air fryer. It shows the nutritional facts for ingredients, as well as vendors in the UH area selling those ingredients.
 ---
-
+<div style="text-align: center;">
+<img width="70%" class="image" align="middle" src="../images/airfry.jpg" alt="Landing page of air fry till I die website">
+</div>
 ## Air Fry Till I Die
 The Air Fry Till I Die (AFTID) website hosts an array of simple (6 ingredients or less) recipes that uses an air fryer for UH students to view. The idea for using an air fryer is that a typical UH student dorming in does not have access to a full-sized kitchen, but they still want to be able to create a simple meal that is healthy and tasty. This is why we chose an air fryer, as it is small and portable, and can be used for a variety of recipes.
 
@@ -21,7 +23,15 @@ The AFTID website offers:
 * A vendors page where users can view shops near UH Manoa and what ingredients they have available
 * When logged in, users can view all of the ingredients and their nutritional facts that are used in the recipes
 * Users also have access to their own inventory, where they can add and edit ingredients so they can keep track of what they have
-
+<div style="text-align: center;">
+<img width="70%" class="image" align="middle" src="../images/aftid-nutritional.jpg" alt="Nutritional modal of air fry till I die website">
+</div>
+<div style="text-align: center;">
+<img width="70%" class="image" align="middle" src="../images/aftid-list-ingredients.jpg" alt="List ingredients page of air fry till I die website">
+</div>
+<div style="text-align: center;">
+<img width="70%" class="image" align="middle" src="../images/aftid-inventory.jpg" alt="Inventory page of air fry till I die website">
+</div>
 ## My Contributions
 As this was a group project, the work was split between three people. My contributions to this website are:
 * The nutritions page, where each ingredient has a popup to easily view their nutritional facts.
