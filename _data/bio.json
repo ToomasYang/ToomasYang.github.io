@@ -124,6 +124,18 @@
     }
     ],
   "work": [
+      {
+      "company": "Nalu Scientific",
+      "position": "Engineering Intern",
+      "website": "https://www.naluscientific.com/",
+      "startDate": "2021-01-22",
+      "endDate": "Present",
+      "summary": "Maintain a Python code library that interacts with custom designed FPGA chips for high speed data collection",
+      "highlights": [
+        "Utilizing Python to troubleshoot and sanity check data collection to validate functional FPGA chips",
+        "Using oscilloscopes and function generators to inspect input signals to chips and verify against collected data",
+      ]
+    },
     {
       "company": "Cybersecurity Laboratory at UH Manoa",
       "position": "Research Assistant",
